@@ -1,5 +1,5 @@
 +++
-title = "Plant Hormone Signaling Mechanism"
+title = "Stochastic Modeling of Plant Hormone Signaling"
 date = 2018-12-23T16:20:16-06:00
 draft = false
 

@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "http://chuankaizhao.github.io"
 
 # Title of your site
 title = "Chuankai Zhao"
@@ -103,16 +103,16 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "forest"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Chuankai Zhao Homepage"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -231,7 +231,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 2
 
     # Talk list format.
     #   0 = Simple
@@ -312,7 +312,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Honors & Awards"
-  url = "#honors"
+  url = "#awards"
   weight = 5
 
 #[[menu.main]]
