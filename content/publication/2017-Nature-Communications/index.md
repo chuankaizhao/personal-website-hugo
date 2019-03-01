@@ -17,6 +17,10 @@ url_pdf = "pdf/2017-Nature-Communications.pdf"
   name = "SuppPDF"
   url  = "pdf/2017-Nature-Communications-Supp.pdf"
 
+[[url_custom]]
+  name = "News"
+  url  = "https://news.illinois.edu/view/6367/529209"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -28,3 +32,4 @@ url_pdf = "pdf/2017-Nature-Communications.pdf"
   focal_point = ""
   preview_only = true
 +++
+This work was highlighted on Illinois homepage, Science Magazine, EurekAlert!, Science Daily, Phys.org, etc. Check out the news [here](https://news.illinois.edu/view/6367/529209).

@@ -1,7 +1,7 @@
 +++
 title = "Dewetting Controls Plant Hormone Perception and Initiation of Drought Resistance Signaling"
 authors = [ "Saurabh Shukla+", "Chuankai Zhao+", "Diwakar Shukla (+ denotes co-first author)"]
-date = 2018-12-05
+date = 2019-01-01T04:00:00
 draft = false
 publication = "*Structure (in press)*"
 abstract    = "Plant hormones are essential mediators of plant responses to environmental stresses. Abscisic acid (ABA) is a hormone that helps plants survive drought by mediating guard cell closure. Since the identification of PYR/PYL/RCAR ABA receptors, the mechanism underlying ABA signaling has been intensely investigated. However, dynamic and energetic aspects of ABA-mediated activation of receptors and their down-regulation by post-translational modifications remain elusive. Using molecular simulations, we establish complete ABA recognition pathways by two sub-type receptors (PYL5, PYL10) and a modified PYL5 receptor through tyrosine nitration. Energetic landscapes reveal that ABA binding is necessary but insufficient for full receptor activation, and ABA must surmount a large energy barrier to bind the receptors. The major barrier appears to be associated with substantial dewetting of both ABA and receptor during ABA binding. Finally, our results suggest that tyrosine nitration of ABA receptors alters the binding pocket, thereby preventing ABA perception and receptor activation."

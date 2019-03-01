@@ -1,13 +1,13 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 1.5
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -22,36 +22,37 @@ date_format = "January 2006"
   title = "Graduate Research Assistant"
   company = "University of Illinois at Urbana-Champaign"
   company_url = ""
-  location = ""
+  location = "Urbana, IL"
   date_start = "2015-08-15"
   date_end = ""
   description = """
   Research field: 
 
+  * High-performance computing
   * Computational Biophysics
   * Molecular Modeling & Simulation
-  * Machine Learning
-  * Protein-Ligand Binding, Protein-Protein Interaction, Protein-DNA Interaction"""
+  * Statistical Modeling
+  * Machine Learning"""
 
 [[experience]]
   title = "Teaching Assistant"
   company = "University of Illinois at Urbana-Champaign"
   company_url = ""
-  location = ""
+  location = "Urbana, IL"
   date_start = "2016-08-15"
   date_end = "2018-05-15"
   description = """
   Instructed Courses: 
 
   * ChBE 523 Heat and Mass Transfer (Graduate)
-  * ChBE 440 Process Control
+  * ChBE 440 Process Control (selected into List of Excellent Teachers)
   * ChBE 431 Process Design"""
 
 [[experience]]
   title = "Undergraduate Research Assistant"
   company = "Shanghai Jiao Tong University"
   company_url = ""
-  location = ""
+  location = "Shanghai, China"
   date_start = "2014-06-15"
   date_end = "2015-07-05"
   description = """
@@ -64,7 +65,7 @@ date_format = "January 2006"
   title = "Undergraduate Research Assistant"
   company = "State Key Laboratory of Metal Matrix Composites, China"
   company_url = ""
-  location = ""
+  location = "Shanghai, China"
   date_start = "2012-09-01"
   date_end = "2014-06-15"
   description = """

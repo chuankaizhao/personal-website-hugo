@@ -14,22 +14,19 @@ subtitle = ""
 weight = 5
 
 +++
-Popular Choice Poster Award, Biophysics Graduate Symposium, University of Illinois, 2018
+University of Illinois at Urbana-Champaign:
 
-Hanratty Travel Award, University of Illinois, 2018
+ * 3M Corporate Fellowship, 2018-2019
+ * Popular Choice Poster Award, Illinois Biophysics Graduate Symposium, 2018
+ * Hanratty Travel Award, 2018
+ * List of Excellent Teachers, 2017
 
-3M Corporate Fellowship, University of Illinois, 2018-2019
+Shanghai Jiao Tong University: 
 
-List of Excellent Teachers, University of Illinois, 2017
-
-Outstanding Graduate Award (top 5%), Shanghai Jiao Tong University, 2015
-
-National Endeavor Scholarship (top 5%), Shanghai Jiao Tong University, 2015
-
-Overseas Study Scholarship (first class, 1%), Shanghai Jiao Tong University, 2014
-
-Liu Garden Scholarship (top 5%), Shanghai Jiao Tong University, 2013
-
-Academic Excellence Scholarship (top 5%), Shanghai Jiao Tong University, 2012-2014
-
-Excellent Project Award, Undergraduate Innovation Program, Shanghai Jiao Tong University, 2014
+ * Outstanding Graduate Award, 2015
+ * National Endeavor Scholarship (top 5%), 2015
+ * Maohua Scholar (undergraduate tuition fully covered), China Maohua Charitable Foundation, 2011-2015
+ * Overseas Study Scholarship (first class, 1%), 2014
+ * Academic Excellence Scholarship (top 5%), 2012-2014
+ * Excellent Project Award, Undergraduate Innovation Program, 2014
+ * Liu Garden Scholarship (top 5%), 2013
