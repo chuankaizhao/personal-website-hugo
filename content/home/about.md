@@ -10,15 +10,16 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Modeling & Simulation",
     "High-performance computing", 
-    "Computational Biology",
-    "Machine Learning",
-    "Bioinformatics & Cheminformatics",
-    "Data Science",
-    "Drug & Agrochemical Discovery", 
-    "Protein Engineering",
-    "Polymer Self-assembly"
+    "Computational chemistry",
+    "Computational biology",
+    "Bioinformatics & cheminformatics",
+    "Modeling & simulation",
+    "Machine learning",
+    "Data science",
+    "Drug & agrochemical discovery", 
+    "Protein engineering",
+    "Polymer self-assembly"
   ]
 
 # List your qualifications (such as academic degrees).

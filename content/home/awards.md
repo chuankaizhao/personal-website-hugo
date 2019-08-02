@@ -15,18 +15,21 @@ weight = 5
 
 +++
 University of Illinois at Urbana-Champaign:
-
- * 3M Corporate Fellowship, 2018-2019
+ 
+ * Glenn E. and Barbara R. Ullyot Graduate Fellowship, 2019-2020
+ * Outstanding Student Research Award, GLCACS 23rd Annual Conference, 2019
+ * First Prize, Science & Spirits Poster Competition, University of Illinois, 2019
+ * 3M Corporate Fellowship, University of Illinois, 2018-2019
  * Popular Choice Poster Award, Illinois Biophysics Graduate Symposium, 2018
- * Hanratty Travel Award, 2018
- * List of Excellent Teachers, 2017
+ * Hanratty Travel Award, University of Illinois, 2018
+ * List of Excellent Teachers, University of Illinois, 2017
 
-Shanghai Jiao Tong University: 
+Shanghai Jiao Tong University (SJTU): 
 
- * Outstanding Graduate Award, 2015
- * National Endeavor Scholarship (top 5%), 2015
+ * Outstanding Graduate Award, SJTU, 2015
+ * National Endeavor Scholarship (top 5%), SJTU, 2015
  * Maohua Scholar (undergraduate tuition fully covered), China Maohua Charitable Foundation, 2011-2015
- * Overseas Study Scholarship (first class, 1%), 2014
- * Academic Excellence Scholarship (top 5%), 2012-2014
- * Excellent Project Award, Undergraduate Innovation Program, 2014
- * Liu Garden Scholarship (top 5%), 2013
+ * Overseas Study Scholarship (first class, 1%), SJTU, 2014
+ * Academic Excellence Scholarship (top 5%), SJTU, 2012-2014
+ * Excellent Project Award, Undergraduate Innovation Program, SJTU, 2014
+ * Liu Garden Scholarship (top 5%), SJTU, 2013
