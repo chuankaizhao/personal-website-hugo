@@ -1,6 +1,6 @@
 +++
 title = "Divalent Cations Enhance TALE-DNA Binding Specificity"
-authors = [ "Luke W. Cuculis+", "Chuankai Zhao+", "Zhanar Abil", "Huimin Zhao", "Diwakar Shukla", "Charles M. Schroeder (+ denotes co-first author)"] 
+authors = [ "Luke W. Cuculis+", "**Chuankai Zhao+**", "Zhanar Abil", "Huimin Zhao", "Diwakar Shukla", "Charles M. Schroeder (+ denotes co-first author)"] 
 date = 2019-01-01T05:00:00
 draft = false
 publication = "*In review*"

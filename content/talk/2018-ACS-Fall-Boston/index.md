@@ -1,6 +1,6 @@
 +++
 title = "Complex dynamics of hormone perception and receptor activation in plant drought resistance signaling"
-authors = [ "Chuankai Zhao", "Diwakar Shukla" ]
+authors = [ "**Chuankai Zhao**", "Diwakar Shukla" ]
 date = 2018-08-19T18:30:00-20:30
 draft = false
 event = "256th ACS National Meeting in Boston"

@@ -1,6 +1,6 @@
 +++
 title = "Dynamic-template-directed multiscale assembly for large-area coating of highly-aligned conjugated polymer thin films"
-authors = [ "Erfan Mohammadi", "Chuankai Zhao", "Yifei Meng", "Ge Qu", "Fengjiao Zhang", "Xikang Zhao", "Jianguo Mei", "Jian-Min Zuo", "Diwakar Shukla", "Ying Diao"]
+authors = [ "Erfan Mohammadi", "**Chuankai Zhao**", "Yifei Meng", "Ge Qu", "Fengjiao Zhang", "Xikang Zhao", "Jianguo Mei", "Jian-Min Zuo", "Diwakar Shukla", "Ying Diao"]
 date = 2017-07-13T09:39:12-06:00
 draft = false
 publication = "*Nature Communications*"

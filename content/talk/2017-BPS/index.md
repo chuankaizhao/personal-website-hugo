@@ -1,6 +1,6 @@
 +++
 title = "Machine Learning Guided Ligand-Protein Simulation Approach Elucidates the Binding Mechanism of Abscisic Acid"
-authors = [ "Saurabh Shukla", "Moeen Meigooni", "Chuankai Zhao", "Diwakar Shukla" ]
+authors = [ "Saurabh Shukla", "Moeen Meigooni", "**Chuankai Zhao**", "Diwakar Shukla" ]
 date = 2017-02-14
 draft = false
 event = "61st Annual Biophysical Society Meeting"

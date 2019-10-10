@@ -1,6 +1,6 @@
 +++
 title = "Design of Optimal Experimental Probes for Protein Dynamics Using Machine Learning and Variational Approach to Modeling Conformational Kinetics"
-authors = [ "Balaji Selvam", "Shriyaa Mittal", "Chuankai Zhao", "Diwakar Shukla" ]
+authors = [ "Balaji Selvam", "Shriyaa Mittal", "**Chuankai Zhao**", "Diwakar Shukla" ]
 date = 2016-11-14T13:10:00-13:30
 draft = false
 event = "2016 AIChE Annual Meeting"

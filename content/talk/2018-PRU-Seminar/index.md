@@ -1,6 +1,6 @@
 +++
 title = "Structural, dynamic and energetic basis of plant hormone signal transduction"
-authors = [ "Chuankai Zhao" ]
+authors = [ "**Chuankai Zhao**" ]
 date = 2018-11-09T12:00:00-13:00
 draft = false
 event = "Photosynthesis Research Unit Seminar, University of Illinois"

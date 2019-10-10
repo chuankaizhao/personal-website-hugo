@@ -1,6 +1,6 @@
 +++
 title = "Surface-directed assembly for large-area coating of highly-aligned conjugated polymer thin films"
-authors = [ "Erfan Mohammadi", "Chuankai Zhao", "Yifei Meng", "Jianguo Mei", "Jian-Min Zuo", "Diwakar Shukla", "Ying Diao"]
+authors = [ "Erfan Mohammadi", "**Chuankai Zhao**", "Yifei Meng", "Jianguo Mei", "Jian-Min Zuo", "Diwakar Shukla", "Ying Diao"]
 date = 2017-04-05T10:45:00-11:00
 draft = false
 event = "253rd ACS National Meeting in San Francisco"

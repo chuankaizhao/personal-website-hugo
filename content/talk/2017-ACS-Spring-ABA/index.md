@@ -1,6 +1,6 @@
 +++
 title = "Elucidating binding mechanisms of ABA analogues: Activation of PYL5 receptor by pyrabactin and quinabactin"
-authors = [ "Moeen Meigooni", "Chuankai Zhao", "Diwakar Shukla" ]
+authors = [ "Moeen Meigooni", "**Chuankai Zhao**", "Diwakar Shukla" ]
 date = 2017-04-04T18:00:00-20:00
 draft = false
 event = "253rd ACS National Meeting in San Francisco"

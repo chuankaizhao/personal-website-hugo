@@ -1,6 +1,6 @@
 +++
 title = "How do plants perceive hormones to activate drought resistance signaling?"
-authors = [ "Chuankai Zhao", "Moeen Meigooni", "Diwakar Shukla" ]
+authors = [ "**Chuankai Zhao**", "Moeen Meigooni", "Diwakar Shukla" ]
 date = 2017-07-21T10:00:00-12:00
 draft = false
 event = "Monsanto Research Symposium at University of Illinois"

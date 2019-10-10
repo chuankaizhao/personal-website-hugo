@@ -1,6 +1,6 @@
 +++
 title = "Computational investigation into the activation of abscisic acid signaling for drought stress responses in plants"
-authors = [ "Chuankai Zhao", "Diwakar Shukla" ]
+authors = [ "**Chuankai Zhao**", "Diwakar Shukla" ]
 date = 2018-06-13T16:00:00-18:00
 draft = false
 event = "[Plant Molecular Biology Gordon Research Conference](https://www.grc.org/plant-molecular-biology-conference/2018/)"

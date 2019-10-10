@@ -1,6 +1,6 @@
 +++
 title = "SAXS-guided Enhanced Unbiased Sampling for Structure Determination of Proteins and Complexes"
-authors = [ "Chuankai Zhao", "Diwakar Shukla" ]
+authors = [ "**Chuankai Zhao**", "Diwakar Shukla" ]
 date = 2018-12-10T04:00:00-06:00
 imgae_preview = "2018-Scientific-Reports.png"
 draft = false

@@ -1,6 +1,6 @@
 +++
 title = "Dewetting controls plant hormone perception and initiation of drought resistance signaling"
-authors = [ "Chuankai Zhao" ]
+authors = [ "**Chuankai Zhao**" ]
 date = 2018-10-12T15:00:00-15:20
 draft = false
 event = "17th Annual Gradaute Research Symposium, Chemical and Biomolecular Engineering at Illinois"

@@ -1,6 +1,6 @@
 +++
 title = "Dewetting Controls Plant Hormone Perception and Initiation of Drought Resistance Signaling"
-authors = [ "Saurabh Shukla+", "Chuankai Zhao+", "Diwakar Shukla (+ denotes co-first author)"]
+authors = [ "Saurabh Shukla+", "**Chuankai Zhao+**", "Diwakar Shukla (+ denotes co-first author)"]
 date = 2019-01-01T04:00:00
 draft = false
 publication = "*Structure*"

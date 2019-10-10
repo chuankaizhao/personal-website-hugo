@@ -1,6 +1,6 @@
 +++
 title = "Ion Gel Dynamic Templates for Large Modulation of Morphology and Charge Transport Properties of Solution-Coated Conjugated Polymer Thin Films"
-authors = [ "Erfan Mohammadi", "Chuankai Zhao", "Fengjiao Zhang", "Ge Qu", "Seok-Heon Jung", "Qiujie Zhao", "Christopher Evans", "Jin-Kyun Lee" , "Diwakar Shukla", "Ying Diao" ]
+authors = [ "Erfan Mohammadi", "**Chuankai Zhao**", "Fengjiao Zhang", "Ge Qu", "Seok-Heon Jung", "Qiujie Zhao", "Christopher Evans", "Jin-Kyun Lee" , "Diwakar Shukla", "Ying Diao" ]
 date = 2019-06-05T08:00:00
 draft = false
 publication = "*ACS Applied Materials & Interfaces*"

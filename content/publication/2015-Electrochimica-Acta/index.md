@@ -1,6 +1,6 @@
 +++
 title = "Fabrication of platinum submonolayer electrodes and their high electrocatalytic activities for ammonia oxidation"
-authors = [ "Zhengyang Ni", "Jie Liu", "Yating Wu", "Bin Liu", "Chuankai Zhao", "Yida Deng", "Wenbin Hu", "Cheng Zhong" ]
+authors = [ "Zhengyang Ni", "Jie Liu", "Yating Wu", "Bin Liu", "**Chuankai Zhao**", "Yida Deng", "Wenbin Hu", "Cheng Zhong" ]
 date = 2015-09-20T09:31:49-06:00
 draft = false
 publication = "*Electrochimica Acta*"
